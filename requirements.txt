@@ -1,0 +1,4 @@
+# Library Management System Requirements
+# List of Python dependencies
+
+# tkinter is part of the standard Python library and does not need to be installed separately
